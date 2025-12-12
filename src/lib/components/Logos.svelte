@@ -1,31 +1,28 @@
 <section class="py-12 border-b border-gray-100">
   <div class="max-w-7xl mx-auto px-6">
-    <div class="flex flex-wrap justify-center md:justify-between items-center gap-8 md:gap-12 opacity-80 grayscale hover:grayscale-0 transition-all duration-500">
-      <!-- Bitso -->
-      <span class="text-xl font-bold flex items-center gap-1"><span class="text-2xl">b</span> Bitso</span>
+    <p class="text-center text-sm text-gray-500 mb-8 uppercase tracking-wider">Powering Bitcoin Infrastructure</p>
+    <div class="flex flex-wrap justify-center items-center gap-12 md:gap-16 opacity-60 grayscale hover:grayscale-0 transition-all duration-500">
+      <!-- Bitcoin Developers -->
+      <span class="text-lg font-semibold tracking-wide flex items-center gap-2">
+        <span class="text-orange-500 text-2xl">₿</span> Bitcoin Devs
+      </span>
       
-      <!-- BlockBee -->
-      <span class="text-xl font-bold flex items-center gap-1">
-        <div class="w-4 h-4 bg-black rotate-45"></div> BlockBee
+      <!-- DeFi Protocols -->
+      <span class="text-lg font-bold flex items-center gap-2">
+        <div class="w-3 h-3 bg-primary-500 rounded-full"></div> DeFi
       </span>
 
-      <!-- SoFi -->
-      <span class="text-xl font-bold tracking-tighter">SoFi</span>
+      <!-- Fintech -->
+      <span class="text-lg font-bold tracking-tight">Fintech Apps</span>
 
-      <!-- Xapo Bank -->
-      <span class="text-lg font-semibold tracking-widest uppercase">XAPO BANK</span>
+      <!-- Trading Platforms -->
+      <span class="text-lg font-semibold">Trading Platforms</span>
 
-      <!-- Revolut -->
-      <span class="text-xl font-bold">Revolut</span>
+      <!-- Liquidity Providers -->
+      <span class="text-lg font-bold">Liquidity Providers</span>
 
-      <!-- Coinbase -->
-      <span class="text-xl font-bold">coinbase</span>
-
-      <!-- nu -->
-      <span class="text-2xl font-bold italic text-black">nu</span>
-
-      <!-- coins.ph -->
-      <span class="text-xl font-medium text-black">coins.ph</span>
+      <!-- Infrastructure -->
+      <span class="text-lg font-semibold tracking-wide">Infrastructure</span>
     </div>
   </div>
 </section>
